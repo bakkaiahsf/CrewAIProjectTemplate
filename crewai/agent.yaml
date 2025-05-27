@@ -1,0 +1,8 @@
+# a# agent.yaml - Example agent configuration
+agents:
+  - name: ExampleAgent
+    type: generic
+    description: "A sample agent for demonstration."
+    parameters:
+      skill: "NLP"
+      level: "basic"gent.yaml - Define your agent configuration here 

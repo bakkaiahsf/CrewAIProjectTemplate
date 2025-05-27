@@ -1,0 +1,7 @@
+# task.yaml - Example task configuration
+tasks:
+  - name: ExampleTask
+    description: "A sample task for demonstration."
+    input_type: "text"
+    output_type: "summary"
+    agent: ExampleAgent# task.yaml - Define your task configuration here 

@@ -1,0 +1,8 @@
+# c# crew.yaml - Example crew configuration
+crew:
+  name: ExampleCrew
+  description: "A sample crew composed of agents and tasks."
+  agents:
+    - ExampleAgent
+  tasks:
+    - ExampleTask
